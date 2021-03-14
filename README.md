@@ -1,4 +1,4 @@
-I’m Baoluo (Paul) Meng
+I’m Baoluo (Paul) Meng, a lead engineer at GE Research. 
 
 My research interests lie in formal methods, satisfiability modulo theories 
 and their applications in verification of software systems and machine learning systems, assurance case, cyber-security and auto-test generation. 
